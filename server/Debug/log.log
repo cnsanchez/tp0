@@ -1,0 +1,35 @@
+[INFO] 23:17:10:406 Servidor/(10853:10853): Servidor listo para recibir al cliente
+[INFO] 23:36:45:975 Servidor/(10853:10853): Se conecto un cliente!
+[INFO] 23:36:45:978 Servidor/(10853:10853): Me llego el mensaje valor
+[INFO] 23:36:58:783 Servidor/(10853:10853): Me llegaron los siguientes valores:
+
+[INFO] 23:36:58:784 Servidor/(10853:10853): linea 1
+[INFO] 23:36:58:784 Servidor/(10853:10853): inea 2
+[ERROR] 23:36:58:784 Servidor/(10853:10853): el cliente se desconecto. Terminando servidor
+[INFO] 23:47:35:462 Servidor/(11472:11472): Servidor listo para recibir al cliente
+[INFO] 23:48:07:513 Servidor/(11472:11472): Se conecto un cliente!
+[INFO] 23:48:07:515 Servidor/(11472:11472): Me llego el mensaje valor
+[INFO] 23:51:15:717 Servidor/(11472:11472): Me llegaron los siguientes valores:
+
+[INFO] 23:51:15:718 Servidor/(11472:11472): pa
+[INFO] 23:51:15:720 Servidor/(11472:11472): que
+[INFO] 23:51:15:721 Servidor/(11472:11472): te
+[ERROR] 23:51:15:721 Servidor/(11472:11472): el cliente se desconecto. Terminando servidor
+[INFO] 16:49:00:213 Servidor/(13128:13128): Servidor listo para recibir al cliente
+[INFO] 16:49:23:031 Servidor/(13128:13128): Se conecto un cliente!
+[INFO] 16:49:23:031 Servidor/(13128:13128): Me llego el mensaje valor
+[INFO] 16:49:44:569 Servidor/(13128:13128): Me llegaron los siguientes valores:
+
+[INFO] 16:49:44:571 Servidor/(13128:13128): linea paquete 1
+[INFO] 16:49:44:571 Servidor/(13128:13128): linea para paquete 2
+[INFO] 16:49:44:571 Servidor/(13128:13128): lnea para paquete 3
+[ERROR] 16:49:44:571 Servidor/(13128:13128): el cliente se desconecto. Terminando servidor
+[INFO] 15:25:40:441 Servidor/(5937:5937): Servidor listo para recibir al cliente
+[INFO] 15:25:58:085 Servidor/(5937:5937): Se conecto un cliente!
+[INFO] 15:25:58:085 Servidor/(5937:5937): Me llego el mensaje valor
+[INFO] 15:26:23:487 Servidor/(5937:5937): Me llegaron los siguientes valores:
+
+[INFO] 15:26:23:489 Servidor/(5937:5937): 13
+[INFO] 15:26:23:489 Servidor/(5937:5937): 06
+[INFO] 15:26:23:489 Servidor/(5937:5937): 13
+[ERROR] 15:26:23:489 Servidor/(5937:5937): el cliente se desconecto. Terminando servidor
